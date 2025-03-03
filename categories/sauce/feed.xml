@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Sauce</description>
+        
+                <item>
+                    <title><![CDATA[Tangy Bar-B-Que Sauce]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/tangy-bar-b-que-sauce]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKMN77BJJGZDP4DP1GV8TX.webp" type="image/webp" />
+                    <description><![CDATA[This BBQ sauce is tangy, but it 's also sweet and has a nice taste of onion and garlic. It coats chicken or beef beautifully and also makes a great sauce to serve in small bowls for dipping.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Sriracha Aioli]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/sriracha-aioli]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKMJ8TQDXX6EADXT8F5XCG.webp" type="image/webp" />
+                    <description><![CDATA[Sriracha aioli is a deliciously creamy and spicy dipping sauce that's easy to make with just 3 ingredients: mayo, Sriracha, and lime juice.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Puerto Rican Garlic Marinade]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/puerto-rican-garlic-marinade]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKM54D699SRYHSAM3CRT4F.webp" type="image/webp" />
+                    <description><![CDATA[This Puerto Rican garlic marinade recipe uses only four ingredients-olive oil, garlic, salt, and black pepper-but gives lots of flavor to any meat.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Copycat Signature Sauce]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/copycat-signature-sauce]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKJZP985E4KXPFZEYCNQXQ.webp" type="image/webp" />
+                    <description><![CDATA[If you love Chick-fil-A's signature sauce, try this easy copycat recipe, which uses only six ingredients, for chicken nuggets or chicken sandwiches.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Copycat Polynesian Sauce]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/copycat-polynesian-sauce]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKJZHB16T52Y821X0AMH9J.webp" type="image/webp" />
+                    <description><![CDATA[Deliciously sweet and sour with a strong tangy flavor, this copycat recipe for Chick-fil-A's Polynesian sauce is perfect to serve with nuggets, tenders, or chicken sandwiches.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[George's Woo Hoo BBQ Sauce]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/georges-woo-hoo-bbq-sauce]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC5K0AE2AJCSNY639T98MHT.webp" type="image/webp" />
+                    <description><![CDATA[Molasses, ketchup, and lemon juice are the predominant factors in this quick simmer sauce for your barbeque needs, or when you just need something to make your food go "WOO HOO!"]]></description>
+                </item>
+            
+    </channel>
+</rss>

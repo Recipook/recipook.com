@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Candy</description>
+        
+                <item>
+                    <title><![CDATA[Chocolate-Covered Marshmallows]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/chocolate-covered-marshmallows]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC2DX6WKWYAEC8CY2BGSGX4.webp" type="image/webp" />
+                    <description><![CDATA[These giant chocolate-covered marshmallows are dipped in melted chocolate and chilled to make an impressive, sweet, and fluffy treat!]]></description>
+                </item>
+            
+    </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Sandwich</description>
+        
+                <item>
+                    <title><![CDATA[Chicken Curry Croissants]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/chicken-curry-croissants]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC2B3ZNYKW2YDGP894DQT40.webp" type="image/webp" />
+                    <description><![CDATA[This is a nice deli sandwich that is easy to prepare, and is perfect for anyone who is a curry seasoning fan.]]></description>
+                </item>
+            
+    </channel>
+</rss>

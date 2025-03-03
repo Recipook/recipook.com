@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Pie</description>
+        
+                <item>
+                    <title><![CDATA[Easy Mini Quiches]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/easy-mini-quiches]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC5KJDH67ZHA4HRZQJF2TXP.webp" type="image/webp" />
+                    <description><![CDATA[This mini quiche recipe makes cute little quiches that are as tasty as they look and perfect for on-the-go breakfast, lunch boxes, or parties!]]></description>
+                </item>
+            
+    </channel>
+</rss>

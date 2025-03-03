@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Spice Mix</description>
+        
+                <item>
+                    <title><![CDATA[Ras el Hanout]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/ras-el-hanout]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKM6PB5K4CV15FD78XHPKX.webp" type="image/webp" />
+                    <description><![CDATA[Ras el hanout is a spice mix with ground cumin, ginger, turmeric, cinnamon, coriander, pepper, and more, that's used in many Moroccan dishes.]]></description>
+                </item>
+            
+    </channel>
+</rss>

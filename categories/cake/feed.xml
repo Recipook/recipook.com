@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Cake</description>
+        
+                <item>
+                    <title><![CDATA[Lemon Poppy Seed Cake]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/lemon-poppy-seed-cake]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKKP3WR59A4JJEHA4MN8R5.webp" type="image/webp" />
+                    <description><![CDATA[This lemon poppy seed cake is easy to make from scratch for a deliciously moist cake bursting with nutty poppy seeds and fresh lemon flavor.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Sour Cream Blueberry Coffee Cake]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/sour-cream-blueberry-coffee-cake]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNBHT13NW5GWAHJCDCDZ9MB7.webp" type="image/webp" />
+                    <description><![CDATA[A moist, buttery coffee cake with sour cream, bursting with juicy fresh blueberries and finished with a streusel topping for a delightful crunch!]]></description>
+                </item>
+            
+    </channel>
+</rss>

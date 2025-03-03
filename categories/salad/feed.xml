@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Salad</description>
+        
+                <item>
+                    <title><![CDATA[Vegan Mediterranean Buddha Bowl (W/ Tahini Dressing)]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/vegan-mediterranean-buddha-bowl-w-tahini-dressing]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNDZHKGSMYPT6VAVS460BB66.webp" type="image/webp" />
+                    <description><![CDATA[This vegan Mediterranean Buddha bowl recipe is loaded with nutritious, real food. Fresh Mediterranean inspired ingredients with an easy tahini dressing. It's great for lunch or dinner and is ready in less than 30 minutes.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Asparagus Salad]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/asparagus-salad]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKJM0A2F1JC6N00FW5MVKP.webp" type="image/webp" />
+                    <description><![CDATA[This asparagus salad with grilled lemony asparagus spears, spinach, Parmesan, and crunchy almonds makes a quick and tasty addition to any summer meal.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Lebanese Fattoush (Bread Salad)]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/lebanese-fattoush-bread-salad]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC5T5FD03YF8NWF746JNX0V.webp" type="image/webp" />
+                    <description><![CDATA[Toasted pita bread and ground sumac pair with fresh mint and parsley to spice up the many vegetables in this Lebanese bread salad.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Make-Ahead Spinach Salad in a Jar]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/make-ahead-spinach-salad-in-a-jar]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC5RJC625R1FFAKFFH6QR75.webp" type="image/webp" />
+                    <description><![CDATA[Prep these salads once and eat for the week! Make sure to firmly pack the spinach into each jar and they will stay fresh all week. Also a great use for leftover quinoa!]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Grandma's Carrot Salad]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/grandmas-carrot-salad]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC3H795QXXBTAE3BS92YB9E.webp" type="image/webp" />
+                    <description><![CDATA[This classic carrot salad is super simple to make with just 5 easy ingredients; shredded carrots, sweet raisins, creamy mayo, and lemon juice.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Carrot Raisin Salad]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/carrot-raisin-salad]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC3H5NWP0PCP63C9Z1KWZ59.webp" type="image/webp" />
+                    <description><![CDATA[This carrot raisin salad with crushed pineapple is sweet and creamy with a splash of lemon for a bright flavor and an easy summer side dish.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Red Cabbage-Asparagus Salad with Tahini Dressing]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/red-cabbage-asparagus-salad-with-tahini-dressing]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC29KZ3748N7AVTNFC95RC4.webp" type="image/webp" />
+                    <description><![CDATA[Crispy, colorful, tangy and delicious. This salad is quick to throw together and is super healthy!]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Bob's Blue Cheese Dressing]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/bobs-blue-cheese-dressing]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNBHT06V9MSCMM3D1M53T56K.webp" type="image/webp" />
+                    <description><![CDATA[This creamy blue cheese dressing includes mayo, sour cream, hot pepper sauce, and honey. Serve over your favorite greens, or as a crudité dip.]]></description>
+                </item>
+            
+    </channel>
+</rss>

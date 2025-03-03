@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Jam / Jelly</description>
+        
+                <item>
+                    <title><![CDATA[Quince Jam]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/quince-jam]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKM62C88JCBHPESP9A2SWY.webp" type="image/webp" />
+                    <description><![CDATA[This quince jam made with ripe quinces, lemon, and sugar is a beautiful pink preserve with a delicious floral flavor that pairs perfectly with cheese.]]></description>
+                </item>
+            
+    </channel>
+</rss>

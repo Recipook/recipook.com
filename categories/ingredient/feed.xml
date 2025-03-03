@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Ingredient</description>
+        
+                <item>
+                    <title><![CDATA[Sweet and Spicy Turkey Rub]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/sweet-and-spicy-turkey-rub]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKMMFFYZXZ49CW6H4BB0TC.webp" type="image/webp" />
+                    <description><![CDATA[This sweet and spicy turkey rub recipe uses brown sugar, cumin, garlic, and red pepper flakes. It will add loads of flavor and keep your turkey moist.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Food Processor Pie Crust]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/food-processor-pie-crust]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKK846V683TSVRJ83HY1AR.webp" type="image/webp" />
+                    <description><![CDATA[Homemade pie crust is easy to make in the food processor with flour, very cold butter, and ice water for a flaky dough that comes together quickly.]]></description>
+                </item>
+            
+    </channel>
+</rss>

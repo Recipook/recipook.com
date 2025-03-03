@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Pinterest Products</title>
+        <link>https://recipook.com</link>
+        <description>Recipes feed for Condiment</description>
+        
+                <item>
+                    <title><![CDATA[Sriracha Mayo]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/sriracha-mayo]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNCKMJGH0P8E2EGDBSQWKN3K.webp" type="image/webp" />
+                    <description><![CDATA[Homemade Sriracha mayo is easy to make with 4 simple ingredients for a layer of zing and spicy, tangy heat when spread on sandwiches or burgers.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Ramp Butter]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/ramp-butter]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNC2BFWRBRHZAQZPRY4KN8EZ.webp" type="image/webp" />
+                    <description><![CDATA[Use fresh ramps to make this easy compound butter. If you are using salted butter, you might not even need salt.]]></description>
+                </item>
+            
+
+                <item>
+                    <title><![CDATA[Mom's Giblet Gravy]]></title>
+                    <link><![CDATA[https://recipook.com/recipes/moms-giblet-gravy]]></link>
+                    <media:content url="https://recipook.com/images/recipes/01JNBKWKDJM83RF71GA5GN81VF.webp" type="image/webp" />
+                    <description><![CDATA[This neck and giblet gravy with white wine, celery leaves, and onion needs about 2 hours to simmer, making it the perfect thing to start while the turkey's cooking.]]></description>
+                </item>
+            
+    </channel>
+</rss>
